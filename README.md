@@ -6,6 +6,7 @@
 ## 一般机器人（bots）
 
 * [@Stickers](https://telegram.me/Stickers) - 官方电报贴纸机器人。
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22个单一用途 Telegram 机器人：匿名信箱、派对游戏、账单分摊、习惯打卡、提醒、专注计时等。
 * [@Forbesbot](https://telegram.me/Forbesbot) - 福布斯官方商业新闻机器人。
 * [@TechCrunchBot](https://telegram.me/TechCrunchBot) - 官方TechCrunch技术新闻机器人。
 * [@StoreBot](https://telegram.me/StoreBot) - Telegram商店机器人。
