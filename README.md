@@ -20,6 +20,7 @@
 * [@nosticker_bot](https://t.me/nosticker_bot) - 删除发布到该组的任何贴纸
 * [@daysandbox_bot](https://t.me/daysandbox_bot) - 删除最近24小时内加入群组的用户的链接组合帖子
 * [@m00dbot](https://t.me/m00dbot) - 开源机器人，用于焦虑和抑郁的自我测试。
+* [@TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot) – 工具箱合集：匿名留言箱、提醒、群组记账、习惯打卡、活动报名等 Mini Apps；免费使用，Pro 为一次性 150 Stars 解锁。
  
 
 ### 内联（inline）机器人
